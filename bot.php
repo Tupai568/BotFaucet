@@ -49,23 +49,6 @@ $purple2="\033[1;35m";
 $lblue="\033[0;36m";
 $lblue2="\033[1;36m";
 
-echo "\n";
-echo"{$lblue2}^   ▒▀▀█▀▀  ▒█  ▒█  ▒▀▀█▀▀█  ▒█▀▀█  ▒▀█▀▒     {$lblue2}^\n";
-echo"{$lblue2}^     ▒█    ▒█  ▒█    ▒█  █  ▒█  █    █       {$lblue2}^\n";
-sleep(1);
-echo"{$lblue2}^   {$putih2}  ▒█    ▒█  ▒█    ▒█▄▄█  ▒█▄▄█    █       {$lblue2}^\n";
-echo"{$lblue2}^   {$putih2}  ▒█    ▒█▄▄▒█    ▒█     ▒█ ▒█  ▒▄█▄▒     {$lblue2}^\n";
-sleep(1);
-echo"{$blue2}▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n";
-echo "{$blue2}█{$lblue2}Creator: {$putih2}Tupai{$blue2}       █{$lblue2}YT: {$putih2}Penghasil Gratisan{$blue2} █\n";
-echo "{$blue2}█{$lblue2}HOBI   : {$putih2}Nyopet{$blue2}      █{$yellow}       Warning!!!      {$blue2}█\n";
-sleep(1);
-echo "{$blue2}█{$lblue2}Tanggal: {$putih2}";
-echo date("d-M-Y"); 
-echo " {$blue2}█{$yellow}This script is premium.{$blue2}█\n";
-echo "{$blue2}█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█\n";
-echo "{$blue2}█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█\n";
-
    
 echo "{$putih2}1. {$yellow}earnbitmoon
 {$putih2}2. {$yellow}coinadster
